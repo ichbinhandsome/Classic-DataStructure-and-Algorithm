@@ -4,3 +4,6 @@
 ### quick sort
 ### merge sort
 ### permutation
+
+### dynamic programming:
+    edit distance
