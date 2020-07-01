@@ -1,9 +1,8 @@
 # Classic-DataStructure-and-Algorithm
 ## pyhton implementation
-### Tree traversal
+### Tree traversal: pre_order, in_order, post_order
 ### quick sort
 ### merge sort
 ### permutation
-
-### dynamic programming:
-    edit distance
+### binary search
+### dynamic programming: edit distance
