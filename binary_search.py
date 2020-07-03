@@ -1,3 +1,13 @@
+#二分查找有多种写法， 每种写法返回值都不一样
+# left, right = 0 , len(nums)-1  while(left<=right)
+# 此时返回值 left>right
+# left, rigth = 0, len(nums) while(left<right)
+# 此时返回值 left = right
+# 必须对终止条件小心判断
+# 此外 二分查找不一定非得在查找过程中return 也可以在查找结束后， 返回left 或者 right, 此时须小心判断目标值 
+
+
+
 #tmplate 1
 def binarySearch(nums, target):
     """
