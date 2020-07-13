@@ -3,7 +3,9 @@
 
 **Tree traversal template**:
 >*[BFS & DFS](https://github.com/ichbinhandsome/Classic-DataStructure-and-Algorithm/blob/master/Tree%20traversal/DFS%26BFS.py)*
+
 >*[in_order](https://github.com/ichbinhandsome/Classic-DataStructure-and-Algorithm/blob/master/Tree%20traversal/in_order_traversal.py)*
+
 >*[pre_order](https://github.com/ichbinhandsome/Classic-DataStructure-and-Algorithm/blob/master/Tree%20traversal/pre_order_traversal.py)*
 
 **[quick sort template](https://github.com/ichbinhandsome/Classic-DataStructure-and-Algorithm/blob/master/quick_sort.py)**
