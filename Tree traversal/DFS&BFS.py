@@ -14,7 +14,7 @@ while stack:
 
 
 #BFS using queue
-queue = [root()]
+queue = [root]
 while queue:
     node = queue.pop(0) # first in - first out
     #operation ....
