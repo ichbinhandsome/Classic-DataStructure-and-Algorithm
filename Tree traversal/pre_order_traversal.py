@@ -34,7 +34,7 @@ while root or stack:
     # while结束表示当前节点node为空，即前一个节点没有左子树了
     root = stack.pop()
     # 开始查看它的右子树
-    root = root.left
+    root = root.right
 
 #iterative method 3
 stack = []
